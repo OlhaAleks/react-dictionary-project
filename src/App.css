@@ -1,6 +1,10 @@
 body {
     background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
 }
+.App {
+max-width: 960px;
+margin: 0 auto;
+}
 .Phonetic {
     color: #041740;
 }
